@@ -9,3 +9,9 @@ let align: AlignType = 'left';
 
 align = 'center';
 
+declare function handleRequest(url: string, method: "GET" | "POST"): void;
+
+const req = { url: "https://example.com", method: "GET" } as const;
+handleRequest(req.url, req.method);
+
+// Argument of type 'string' is not assignable to parameter of type '"GET" | "POST"'.
