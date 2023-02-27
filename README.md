@@ -21,7 +21,7 @@ $ node app.js
 借助 [ts-node](https://www.npmjs.com/package/ts-node) 工具可以将 <code>.ts</code> 文件编译并运行, 一步到位
 
 ```bash
-$ tsc-node app.ts
+$ ts-node app.ts
 ```
 
 ### 浏览器 (webpack-dev-server)
