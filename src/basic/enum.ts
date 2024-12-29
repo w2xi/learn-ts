@@ -17,6 +17,8 @@ enum Direction {
 // }
 
 function turnDirection(direction: Direction) {
+  console.log(Direction);
+  
   switch (direction) {
     case Direction.LEFT:
       console.log('turn left')
