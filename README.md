@@ -30,11 +30,10 @@ $ ts-node app.ts
 
 ## 资源
 
+[阮一峰TS教程](https://wangdoc.com/typescript/)
+
 [TypeScript 官网](https://www.typescriptlang.org/)  
 
 [冴羽翻译的TypeScript](https://ts.yayujs.com/)
 
 [小满TypeScript基础教程全集（完结）](https://www.bilibili.com/video/BV1wR4y1377K?p=17&spm_id_from=pageDriver&vd_source=d36c0f862962bd8f8a7256fb2ddb5bbf)
-
-code_why 视频教材
-
